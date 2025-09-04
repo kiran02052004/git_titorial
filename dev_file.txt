@@ -1,2 +1,3 @@
 add into dev_file.txt
 new feature is added into  dev file
+hello world
